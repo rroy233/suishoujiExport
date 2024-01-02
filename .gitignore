@@ -1,0 +1,6 @@
+*.xlsx
+*.txt
+*.zip
+/log
+/.idea
+*.json
